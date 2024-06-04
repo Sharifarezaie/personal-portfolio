@@ -1,17 +1,18 @@
 @media screen  and (width: 1500px) {
     #navbar {
-       display: flex;
-       flex-direction: column;
-       position: fixed;
-       text-align: center;
-       width: 100vw;
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        text-align: center;
+        width: 100vw;
     }
 }
+
 #navbar {
     position: fixed;
     text-align: center;
-    float:left;
+    float: left;
     list-style-type: none;
-  width: 100vw;
-  background-color: #f0f0f0;
-}
+    width: 100vw;
+    background-color: #f0f0f0;
+};
